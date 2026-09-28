@@ -22,7 +22,7 @@
 
 **genpark-browser-computer-use-element-anchor-skill** is a deterministic, zero-dependency Python skill engineered for autonomous AI workflows, multi-agent orchestration, and production deployments.
 
-> **Executive Capability**: Vision-to-DOM element anchor resilient against click drift (Genspark Claw / Computer Use)
+> **Executive Capability**: Vision-to-DOM element anchor resilient against click drift (GenPark Claw / Computer Use)
 
 ### ⚡ Key Highlights & Value
 * 🐍 **Zero External `pip` Dependencies**: Runs instantly on standard Python 3.9+ with zero environment bloat.
